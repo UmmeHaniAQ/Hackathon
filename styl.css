@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:20px 10%;
+}
+
+
+
+.menu{
+    
+    display:flex;
+    gap:20px;
+}
+.menu a{
+    font-size:20px ;
+    text-decoration: none ;
+    font-weight: bold;
+    
+}
+.button{
+    display:flex;
+    gap:20px;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    border: radius 10px;
+}
+.signup{
+    background-color: green;
+}
+
+img{
+    width: auto;
+    padding-top:20px; 
+    margin-left: 15px;   
+}
+img{
+    margin-right: 150px;
+}
+.main2 {
+    display: flex;
+    justify-content:;
+    align-items:center;
+    padding:20px 10%;
+    font-size:px;
+    gap: 20px; 
+}
+
+
+.img{
+    padding:20px ;
+}
